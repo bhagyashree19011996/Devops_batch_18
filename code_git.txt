@@ -1,0 +1,12 @@
+104 git checkout -b devlopment
+ 105 git branch
+ 106 git checkout main
+ 107 git branch
+ 108 git checkout development
+ 109 git checkout devlopment
+ 110 git branch
+ 111 ls
+ 112 git status
+ 113 git add .
+ 114 git commit -m "Develomnet file"
+ 115 git push
