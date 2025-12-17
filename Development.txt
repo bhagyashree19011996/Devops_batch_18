@@ -1,0 +1,6 @@
+2) First i login GitHub
+  create 1 Repository----New---Repository name---public---Create Repository
+
+3) Quick setup — if you’ve done this kind of thing before---select HTTPS---click README---click Commit changes
+
+4) Click Code---select HTTPS---copy Link
